@@ -1,0 +1,2 @@
+pyinstaller -F -w --hidden-import=queue 文章生成器.py -p readJSON.py  -i 111.ico
+-i https://pypi.tuna.tsinghua.edu.cn/simple/
